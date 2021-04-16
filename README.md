@@ -8,5 +8,7 @@ The notebook contained in this repository aims to show how ot perform a complete
 The notebook is prepared and tested on GCP VM with the following settings:
 
 Environment: PyTorch:1.7
+
 Machine type: 4vCPUs, 15GM RAM
+
 GPUs: NVIDIA Tesla V100x1
