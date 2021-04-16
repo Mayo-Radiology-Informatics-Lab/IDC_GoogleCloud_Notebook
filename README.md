@@ -1,4 +1,4 @@
-# LIDC_GCP_notebook_Kevin
+# LIDC_GCP_Notebook_Kevin
 Deep-learning Nodule Segmentation using LIDC dataset on Google Cloud Platform (GCP).
 
 The notebook contained in this repository aims to show how to perform a complete workflow of a deep-learning task on GCP using LIDC dataset. It could be a good tutorial notebook to help you start working on IDC data using BigQuery. 
