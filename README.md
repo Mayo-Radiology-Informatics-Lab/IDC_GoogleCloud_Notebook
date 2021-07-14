@@ -12,3 +12,5 @@ Environment: PyTorch:1.7
 Machine type: 4vCPUs, 15GM RAM
 
 GPUs: NVIDIA Tesla V100x1
+
+The notebook is also compatible to Google Colab environment. 
